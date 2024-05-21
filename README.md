@@ -5,7 +5,7 @@ This is an online learning portal developed based on PHP and JavaScript mainly. 
 <br>
 For frontend part,I have used JQuery,HTML,CSS and BootStrap..
 <br>
-##Working:
+<h1>Working:</h1>
 
 Firstly,User have to register with this application,and the page will then automatically redirect the user to the login page..Then user have to put the enrollment number and the password and if both this matches then it will allow the user to access the dashboard of the user..Used MySQL for storing the enrollment number and the password..In the dashboard,there will be different module like exercises,the course taken by the user,download section(Where user can download that particular course). 
 
